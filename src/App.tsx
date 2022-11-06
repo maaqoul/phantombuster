@@ -1,5 +1,16 @@
 import React from "react";
+import Header from "./ui/Header";
+import SideBar from "./ui/SideBar";
 
 export function App(): JSX.Element {
-  return <h1>Hello world!</h1>;
+  return (
+    <div className="bg-gray-75 w-full h-screen">
+      <div className="h-full">
+        <Header />
+        <main className="container h-full w-full">
+          <SideBar />
+        </main>
+      </div>
+    </div>
+  );
 }

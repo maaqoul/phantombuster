@@ -4,7 +4,7 @@
   "description": "this is a clone for phantombuster dashboarad to pass a test use case",
   "license": "MIT",
   "author": "hicham maaqoul",
-  "source": "src/public/index.html",
+  "source": "./public/index.html",
   "scripts": {
     "start": "parcel --open",
     "build": "parcel build"
