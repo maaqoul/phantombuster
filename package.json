@@ -1,7 +1,7 @@
 {
   "name": "phantombuster",
   "version": "1.0.0",
-  "description": "this is a clone for phantombuster dashboarad to pass a test use case",
+  "description": "this is a clone for phantombuster dashboard to pass a test use case",
   "license": "MIT",
   "author": "hicham maaqoul",
   "source": "./public/index.html",
